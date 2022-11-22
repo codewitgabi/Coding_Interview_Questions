@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# By Uber - Hard
+
 def foo(arr:list) -> list:
     prod = 1
     for num in arr:
